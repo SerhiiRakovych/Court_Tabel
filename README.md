@@ -1,6 +1,5 @@
-<center>
+
 ![F-Result logo](http://moonr.ho.ua/downloads/gallery/fresult/SunnyHouse_logoE.png)
-</center>
 
 # Sunny House
 Автоматизация планирования учебного процесса и анализ коммерческих операций частного учебного заведения.

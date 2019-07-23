@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img width="220" height="80" src="http://moonr.ho.ua/downloads/gallery/fresult/SunnyHouse_logoE.png">
-</p>
-
 # Sunny House
 Автоматизация планирования учебного процесса и анализ коммерческих операций частного учебного заведения.
 

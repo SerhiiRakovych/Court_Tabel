@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="220" height="80" src="http://moonr.ho.ua/downloads/gallery/fresult/SunnyHouse_logoE.png">
+  <img width="220" height="80" src="http://moonr.ho.ua/downloads/gallery/fresult/SunnyHouse_logo.png">
 </p>
 
 # Sunny House

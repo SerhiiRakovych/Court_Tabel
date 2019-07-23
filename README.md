@@ -23,6 +23,7 @@
 * Табличные
 
 Все табличные отчеты могут быть експортированы в формат MS Excel для дальнейшего анализа.
+
 ![Screen_2](http://moonr.ho.ua/downloads/gallery/fresult/FPScr_2M.jpg)
 
 
@@ -34,9 +35,10 @@
 
 ![Screen_3](http://moonr.ho.ua/downloads/gallery/fresult/FPScr_3M.jpg)
 
-Используемые технологии и компоненты:
+## Используемые технологии и библиотеки:
 * [ASP .NET MVC 5](https://ru.wikipedia.org/wiki/ASP.NET_MVC_Framework)
 * [Entity Framework 6](https://ru.wikipedia.org/wiki/ADO.NET_Entity_Framework)
+* [EPPlus](https://github.com/JanKallman/EPPlus)
 * [Bootstrap 3](https://getbootstrap.com/docs/3.3)
 * [JQuery 3](https://jquery.com)
 
